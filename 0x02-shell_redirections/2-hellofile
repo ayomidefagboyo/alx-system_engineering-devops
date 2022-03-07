@@ -1,1 +1,2 @@
+#!/bin/bash
 fmt < /etc/passwd > 2-hellofile
